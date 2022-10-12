@@ -6,9 +6,11 @@
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- JavaScript
+- Webpack
+- Visual Studio Code
 
 ## Live Demo (if available)
 
